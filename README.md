@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors-Game
 A simple console-based Rock, Paper, Scissors game implemented in Python with options to choose difficulty levels and persistent gameplay until the player chooses to change the difficulty or exit.
-Certainly! Below are the details you can add to the README file for your Rock, Paper, Scissors game project on GitHub:
 
 ---
 
